@@ -8,7 +8,7 @@ print('extracting temperatures above 100')
 my_slice = temperatures[23:30]
 print(my_slice)
 
-print('reversing list and extracting tmperatures from 5th and 10th day')
+print('reversing list and extracting temperatures from 5th and 10th day')
 temperatures.reverse()
 print(temperatures)
 
